@@ -1,4 +1,4 @@
-# 🪙 Cryptocurrency API
+# 🪙 CryptoAPI API
 
 A lightweight, production-ready REST API built with FastAPI that provides real-time cryptocurrency data from LiveCoinWatch. Features intelligent caching, comprehensive error handling, and bonus search capabilities.
 
